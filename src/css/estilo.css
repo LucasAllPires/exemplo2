@@ -1,0 +1,6 @@
+/* SELETOR UNIVERSAL - RESET BÁSICO */
+*{
+ margin:0; /* zera todos os lados da margem */
+ padding:0; /* zera todos os lados do espaçamento interno */
+ box-sizing: border-box; /* altera a forma cde largura e altura de um elemento */
+}
